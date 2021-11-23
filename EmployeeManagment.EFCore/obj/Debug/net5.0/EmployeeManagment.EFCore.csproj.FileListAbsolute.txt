@@ -1,0 +1,14 @@
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\bin\Debug\net5.0\EmployeeManagment.EFCore.deps.json
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\bin\Debug\net5.0\EmployeeManagment.EFCore.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\bin\Debug\net5.0\ref\EmployeeManagment.EFCore.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\bin\Debug\net5.0\EmployeeManagment.EFCore.pdb
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\bin\Debug\net5.0\EmployeeManagment.Domain.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\bin\Debug\net5.0\EmployeeManagment.Domain.pdb
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\obj\Debug\net5.0\EmployeeManagment.EFCore.csproj.AssemblyReference.cache
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\obj\Debug\net5.0\EmployeeManagment.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\obj\Debug\net5.0\EmployeeManagment.EFCore.AssemblyInfoInputs.cache
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\obj\Debug\net5.0\EmployeeManagment.EFCore.AssemblyInfo.cs
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\obj\Debug\net5.0\EmployeeManagment.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\obj\Debug\net5.0\EmployeeManagment.EFCore.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\obj\Debug\net5.0\ref\EmployeeManagment.EFCore.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.EFCore\obj\Debug\net5.0\EmployeeManagment.EFCore.pdb

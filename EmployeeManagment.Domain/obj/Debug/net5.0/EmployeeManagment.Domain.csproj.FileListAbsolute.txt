@@ -1,0 +1,12 @@
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\net5.0\EmployeeManagment.Domain.deps.json
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\net5.0\EmployeeManagment.Domain.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\net5.0\ref\EmployeeManagment.Domain.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\net5.0\EmployeeManagment.Domain.pdb
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\net5.0\EmployeeManagment.Domain.csproj.AssemblyReference.cache
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\net5.0\EmployeeManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\net5.0\EmployeeManagment.Domain.AssemblyInfoInputs.cache
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\net5.0\EmployeeManagment.Domain.AssemblyInfo.cs
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\net5.0\EmployeeManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\net5.0\EmployeeManagment.Domain.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\net5.0\ref\EmployeeManagment.Domain.dll
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\net5.0\EmployeeManagment.Domain.pdb
