@@ -60,3 +60,4 @@ C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.WebApi\obj\Debug
 C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.WebApi\obj\Debug\net5.0\ref\EmployeeManagment.WebApi.dll
 C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.WebApi\obj\Debug\net5.0\EmployeeManagment.WebApi.pdb
 C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.WebApi\obj\Debug\net5.0\EmployeeManagment.WebApi.genruntimeconfig.cache
+C:\Users\Osama\source\repos\EmployeeManagment\EmployeeManagment.WebApi\obj\Debug\net5.0\EmployeeManagment.WebApi.csproj.CopyComplete

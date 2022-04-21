@@ -4,14 +4,146 @@
     "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\EmployeeManagment.EFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\EmployeeManagment.Domain.csproj": {
+    "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\SchoolManagment.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\EmployeeManagment.Domain.csproj",
-        "projectName": "EmployeeManagment.Domain",
-        "projectPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\EmployeeManagment.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\SchoolManagment.Domain.csproj",
+        "projectName": "SchoolManagment.Domain",
+        "projectPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\SchoolManagment.Domain.csproj",
         "packagesPath": "C:\\Users\\Osama\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Shared\\EmployeeManagment.Shared.csproj": {
+                "projectPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Shared\\EmployeeManagment.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\EmployeeManagment.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\EmployeeManagment.EFCore.csproj",
+        "projectName": "EmployeeManagment.EFCore",
+        "projectPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\EmployeeManagment.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Osama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\SchoolManagment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\SchoolManagment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Shared\\EmployeeManagment.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Shared\\EmployeeManagment.Shared.csproj",
+        "projectName": "EmployeeManagment.Shared",
+        "projectPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Shared\\EmployeeManagment.Shared.csproj",
+        "packagesPath": "C:\\Users\\Osama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,92 +181,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\EmployeeManagment.EFCore.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\EmployeeManagment.EFCore.csproj",
-        "projectName": "EmployeeManagment.EFCore",
-        "projectPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\EmployeeManagment.EFCore.csproj",
-        "packagesPath": "C:\\Users\\Osama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.EFCore\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\EmployeeManagment.Domain.csproj": {
-                "projectPath": "C:\\Users\\Osama\\source\\repos\\EmployeeManagment\\EmployeeManagment.Domain\\EmployeeManagment.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
